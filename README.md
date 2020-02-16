@@ -1,2 +1,0 @@
-# KMJ
-Created with CodeSandbox

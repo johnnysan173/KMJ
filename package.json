@@ -1,0 +1,25 @@
+{
+  "title": "Dream Linker",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "main": "index.tsx",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "Link the dream",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@types/react-router-dom": "5.1.3",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router-dom": "5.1.0",
+    "typescript": "latest"
+  },
+  "keywords": ["link", "dream"],
+  "name": "dream-linker"
+}
